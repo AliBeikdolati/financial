@@ -1,0 +1,68 @@
+@font-face {
+    font-family: IRANSans_FA;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/IRANSansFA/eot/IRANSansWeb(FaNum).eot');
+    src: url('../fonts/IRANSansFA/eot/IRANSansWeb(FaNum).eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('../fonts/IRANSansFA/woff2/IRANSansWeb(FaNum).woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+ */ url('../fonts/IRANSansFA/woff/IRANSansWeb(FaNum).woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+ */ url('../fonts/IRANSansFA/ttf/IRANSansWeb(FaNum).ttf') format('truetype')
+}
+
+* {
+    font-family: IRANSans_FA;
+}
+
+/* header section */
+
+.header__home {
+    background-image: url("../image/bg_hero_1.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 720px;
+}
+
+.header__button {
+    background: #1919b3;
+    padding: 5px 40px;
+    border-radius: 20px;
+    color: #ffffff;
+}
+
+.header__button:hover {
+    color: #ffffff;
+    box-shadow: 1px 1px 10px 4px #3636bae3;
+}
+
+
+.header__home #container__home {
+
+}
+
+.header__home #container__home .image__header {
+    max-height: 500px;
+    min-width: 70px;
+}
+
+/* end header section */
+
+
+/* client section */
+
+.client__section {
+    padding-top: 50px;
+}
+
+.client__section .client__logo {
+    display: flex;
+    max-height: 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.client__section .client__image {
+    max-width: 150px;
+    max-height: 120px;
+}
+
+/* end client section */
+
+
