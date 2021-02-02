@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/financial/static/css/main.954b30ae.chunk.css",
-    "main.js": "/financial/static/js/main.b841ed92.chunk.js",
-    "main.js.map": "/financial/static/js/main.b841ed92.chunk.js.map",
+    "main.css": "/financial/static/css/main.24438afc.chunk.css",
+    "main.js": "/financial/static/js/main.1876075d.chunk.js",
+    "main.js.map": "/financial/static/js/main.1876075d.chunk.js.map",
     "runtime-main.js": "/financial/static/js/runtime-main.eefa1231.js",
     "runtime-main.js.map": "/financial/static/js/runtime-main.eefa1231.js.map",
     "static/js/2.85260870.chunk.js": "/financial/static/js/2.85260870.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a794010e.chunk.js": "/financial/static/js/3.a794010e.chunk.js",
     "static/js/3.a794010e.chunk.js.map": "/financial/static/js/3.a794010e.chunk.js.map",
     "index.html": "/financial/index.html",
-    "static/css/main.954b30ae.chunk.css.map": "/financial/static/css/main.954b30ae.chunk.css.map",
+    "static/css/main.24438afc.chunk.css.map": "/financial/static/css/main.24438afc.chunk.css.map",
     "static/js/2.85260870.chunk.js.LICENSE.txt": "/financial/static/js/2.85260870.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/financial/static/media/pricing_pattern_grayscale.773e538b.svg",
     "static/media/alter_sport.7146482f.png": "/financial/static/media/alter_sport.7146482f.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.eefa1231.js",
     "static/js/2.85260870.chunk.js",
-    "static/css/main.954b30ae.chunk.css",
-    "static/js/main.b841ed92.chunk.js"
+    "static/css/main.24438afc.chunk.css",
+    "static/js/main.1876075d.chunk.js"
   ]
 }
