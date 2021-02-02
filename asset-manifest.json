@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/financial/static/css/main.2f962390.chunk.css",
-    "main.js": "/financial/static/js/main.487c6547.chunk.js",
-    "main.js.map": "/financial/static/js/main.487c6547.chunk.js.map",
-    "runtime-main.js": "/financial/static/js/runtime-main.eefa1231.js",
-    "runtime-main.js.map": "/financial/static/js/runtime-main.eefa1231.js.map",
-    "static/js/2.85260870.chunk.js": "/financial/static/js/2.85260870.chunk.js",
-    "static/js/2.85260870.chunk.js.map": "/financial/static/js/2.85260870.chunk.js.map",
-    "static/js/3.a794010e.chunk.js": "/financial/static/js/3.a794010e.chunk.js",
-    "static/js/3.a794010e.chunk.js.map": "/financial/static/js/3.a794010e.chunk.js.map",
+    "main.css": "/financial/static/css/main.868bc19f.chunk.css",
+    "main.js": "/financial/static/js/main.f1939949.chunk.js",
+    "main.js.map": "/financial/static/js/main.f1939949.chunk.js.map",
+    "runtime-main.js": "/financial/static/js/runtime-main.8cdfb48b.js",
+    "runtime-main.js.map": "/financial/static/js/runtime-main.8cdfb48b.js.map",
+    "static/js/2.1792ccf0.chunk.js": "/financial/static/js/2.1792ccf0.chunk.js",
+    "static/js/2.1792ccf0.chunk.js.map": "/financial/static/js/2.1792ccf0.chunk.js.map",
+    "static/js/3.0454b93f.chunk.js": "/financial/static/js/3.0454b93f.chunk.js",
+    "static/js/3.0454b93f.chunk.js.map": "/financial/static/js/3.0454b93f.chunk.js.map",
     "index.html": "/financial/index.html",
-    "static/css/main.2f962390.chunk.css.map": "/financial/static/css/main.2f962390.chunk.css.map",
-    "static/js/2.85260870.chunk.js.LICENSE.txt": "/financial/static/js/2.85260870.chunk.js.LICENSE.txt",
+    "static/css/main.868bc19f.chunk.css.map": "/financial/static/css/main.868bc19f.chunk.css.map",
+    "static/js/2.1792ccf0.chunk.js.LICENSE.txt": "/financial/static/js/2.1792ccf0.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/financial/static/media/pricing_pattern_grayscale.773e538b.svg",
     "static/media/alter_sport.7146482f.png": "/financial/static/media/alter_sport.7146482f.png",
     "static/media/app_preview_1.a0558c17.png": "/financial/static/media/app_preview_1.a0558c17.png",
@@ -22,9 +22,9 @@
     "static/media/illustration_contact.3a9da08e.svg": "/financial/static/media/illustration_contact.3a9da08e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eefa1231.js",
-    "static/js/2.85260870.chunk.js",
-    "static/css/main.2f962390.chunk.css",
-    "static/js/main.487c6547.chunk.js"
+    "static/js/runtime-main.8cdfb48b.js",
+    "static/js/2.1792ccf0.chunk.js",
+    "static/css/main.868bc19f.chunk.css",
+    "static/js/main.f1939949.chunk.js"
   ]
 }
